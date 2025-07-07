@@ -3,4 +3,4 @@ Updating file
 
 Making new changes git commands
 
-New change from tutorial/git
+New changes from tutorial branch2
