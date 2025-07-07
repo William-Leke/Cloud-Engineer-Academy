@@ -5,4 +5,4 @@ Making new changes git commands
 
 New change from tutorial/git
 
-More changes from tutorial/git
+More changes fro tutorial branch
